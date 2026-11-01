@@ -1,0 +1,6 @@
+{
+  "name": "OmniClip AI - Repurposing & Auto-Publishing Engine",
+  "description": "Transform long YouTube videos into viral 9:16 short clips with AI auto-cutting, animated dynamic captions, viral hook scores, and cross-platform auto-publishing to TikTok, Instagram Reels, and YouTube Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
